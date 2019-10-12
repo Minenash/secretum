@@ -1,16 +1,13 @@
-# secretum
+# Project Secretum
 
-A new Flutter application.
+[Tadhg Boyle](https://github.com/Aberdeener) and I are starting a privacy focused web, mobile, and eventually desktop, chat service, called Secretum. This is just a cool project to work on, and to learn more about webdeving and programming with privacy, not just in consideration, but as a primary focus. We are not planning to be a competitor to any major players. My role will primarily be the database and the mobile apps.
 
-## Getting Started
+What I hope to learn thought out the course of the project:
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Interactively using PHP
+- Javascript, but keeping it to a minimum
+- How to connect to a database using Flutter/Dart
+- How to check the database even when the app is closed.
+- How to keep the minimum amount of information about a user as possible
+- Reenforce my skills in SQL and Database Design
+- Continue to expand my capabilities in Flutter/Dart
